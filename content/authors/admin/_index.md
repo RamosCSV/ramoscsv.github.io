@@ -1,4 +1,3 @@
-what is wrong on this gemini:
 ---
 # Display name
 title: Vasco Ramos
