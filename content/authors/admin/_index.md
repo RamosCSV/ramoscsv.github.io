@@ -65,10 +65,6 @@ education:
       Thesis: 20/20 
       Final Grade 17/20
 
-      Courses included:
-      - Information Retrieval
-      - Web Search and Data Mining
-
   - area: BSc Computer Science and Engineering
     institution: Portalegre Polythecnic Institue
     date_start: 2019
@@ -85,7 +81,7 @@ work:
     date_start: 2025
     date_end: ''
     summary: |
-    123123
+      123123
   - position: Graduate Researcher
     company_name: NOVA LINCS
     company_url: ''
@@ -109,7 +105,8 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Distinction Diploma - Top of the Class (MSc Computer Science and Engineering) date: 2025 
+  - title: Distinction Diploma - Top of the Class (MSc Computer Science and Engineering)
+    date: 2025 
     awarder: NOVA School of Science and Technology
     summary: |
         Honored as the top-ranked student among all graduates from the School of Technology and Management (ESTG). This award is conferred annually to the individual with the highest overall academic record across all bachelor's degree programs within the school.
