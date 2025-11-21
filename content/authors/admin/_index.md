@@ -30,7 +30,6 @@ organizations:
     url: https://nova-lincs.di.fct.unl.pt/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:vcc.ramos@campus.fct.unl.pt'
@@ -40,9 +39,9 @@ profiles:
   - icon: brands/github
     url: https://github.com/ramoscsv
   - icon: brands/linkedin
-    url: https://www.linkedin.com/ramoscsv
+    url: https://www.linkedin.com/in/ramoscsv # Fixed URL structure
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/ramoscsv
+    url: https://scholar.google.com/citations?user=YOUR_ACTUAL_ID # Update this ID
 
 interests:
   - Artificial Intelligence
@@ -53,8 +52,8 @@ education:
   - area: PhD Computer Science
     institution: NOVA University of Lisbon
     date_start: 2025
-    date_end:
-    summary:
+    date_end: ''
+    summary: ''
     
   - area: MSc Computer Science and Engineering
     institution: NOVA University of Lisbon
@@ -69,7 +68,7 @@ education:
       - Web Search and Data Mining
 
   - area: BSc Computer Science and Engineering
-    institution: Portalegre Polythecnic Institue
+    institution: Portalegre Polytechnic Institute # Fixed Typo
     date_start: 2019
     date_end: 2022
     summary: |
@@ -84,7 +83,7 @@ work:
     date_start: 2025
     date_end: ''
     summary: |
-    123123
+      123123 # Fixed indentation
   - position: Graduate Researcher
     company_name: NOVA LINCS
     company_url: ''
@@ -94,21 +93,9 @@ work:
     summary: |
       1231231
 
-#languages:
-#  - name: Portuguese
-#    percent: 100
-#  - name: English
-#    percent: 80
-#  - name: Spanish
-#    percent: 80
- 
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Distinction Diploma - Top of the Class (MSc Computer Science and Engineering) date: 2025 
+  - title: Distinction Diploma - Top of the Class (MSc Computer Science and Engineering)
+    date: 2025 # Moved to new line
     awarder: NOVA School of Science and Technology
     summary: |
         Honored as the top-ranked student among all graduates from the School of Technology and Management (ESTG). This award is conferred annually to the individual with the highest overall academic record across all bachelor's degree programs within the school.
@@ -121,7 +108,4 @@ awards:
       Winner of the Alexa Prize TaskBot Challenge 2, a global university competition hosted by Amazon.
   - title: Top Graduate of the School
     date: 2023
-    awarder: Portalegre Polythecnic Institute - Delta Cafés
-    summary: |
-      Honored as the top-ranked student among all graduates from the School of Technology and Management (ESTG). This award is conferred annually to the individual with the highest overall academic record across all bachelor's degree programs within the school.
----
+    awarder: Portalegre Polytechnic Institute - Delta Caf
