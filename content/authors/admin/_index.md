@@ -108,12 +108,11 @@ awards:
     date: 2025 
     awarder: NOVA School of Science and Technology
     summary: |
-        Honored as the top-ranked student among all graduates from the School of Technology and Management (ESTG). This award is conferred annually to the individual with the highest overall academic record across all bachelor's degree programs within the school.
+        Achieved the top overall academic record (GPA) among all students in the Master's in Computer Science and Engineering program.
   - title: Winner of Alexa Prize TaskBot Challenge 2 
     url: https://www.amazon.science/alexa-prize/taskbot-challenge/2022
     date: 2024
     awarder: Amazon Science
-    icon: amazon
     summary: |
       Winner of the Alexa Prize TaskBot Challenge 2, a global university competition hosted by Amazon.
   - title: Top Graduate of the School
