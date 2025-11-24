@@ -63,7 +63,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: resume-work
+  - block: collection
     content:
       title: Experience
       username: admin
