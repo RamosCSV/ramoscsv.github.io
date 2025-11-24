@@ -52,22 +52,22 @@ interests:
 education:
   - area: PhD Computer Science
     institution: NOVA University of Lisbon
-    date_start: 2025
+    date_start: February 2025
     date_end:
     summary:
     
   - area: MSc Computer Science and Engineering
     institution: NOVA University of Lisbon
-    date_start: 2022
-    date_end: 2024
+    date_start: September 2022
+    date_end: December 2024
     summary: |
       Thesis: 20/20 
       Final Grade 17/20
 
   - area: BSc Computer Science and Engineering
     institution: Portalegre Polythecnic Institue
-    date_start: 2019
-    date_end: 2022
+    date_start: September 2019
+    date_end: July 2022
     summary: |
       Final Project: 19/20
       Final Grade 17/20
@@ -77,18 +77,30 @@ work:
     company_name: NOVA LINCS
     company_url: ''
     company_logo: ''
-    date_start: 2025
+    date_start: April 2025
     date_end: ''
     summary: |
-      123123
   - position: Graduate Researcher
     company_name: NOVA LINCS
     company_url: ''
     company_logo: ''
-    date_start: 2023
-    date_end: 2025
+    date_start: May 2023
+    date_end: March 2025
     summary: |
-      1231231
+  - position: Deep Learning Course Instructor
+    company_name: CMU Portugal Academy
+    company_url: ''
+    company_logo: ''
+    date_start: January 2025
+    date_end: February 2025
+    summary: |
+  - position: Deep Learning Course Instructor
+    company_name: NOVA FCT Executive Education
+    company_url: ''
+    company_logo: ''
+    date_start: October 2024
+    date_end: February 2025
+    summary: |
 
 #languages:
 #  - name: Portuguese
