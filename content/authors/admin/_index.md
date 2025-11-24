@@ -53,8 +53,8 @@ education:
   - area: PhD Computer Science
     institution: NOVA University of Lisbon
     date_start: February 2025
-    date_end:
-    summary:
+    #date_end:
+    #summary:
     
   - area: MSc Computer Science and Engineering
     institution: NOVA University of Lisbon
@@ -78,29 +78,29 @@ work:
     company_url: ''
     company_logo: ''
     date_start: April 2025
-    date_end: ''
-    summary: |
+    #date_end: ''
+    #summary: |
   - position: Graduate Researcher
     company_name: NOVA LINCS
     company_url: ''
     company_logo: ''
     date_start: May 2023
     date_end: March 2025
-    summary: |
+    #summary: |
   - position: Deep Learning Course Instructor
     company_name: CMU Portugal Academy
     company_url: ''
     company_logo: ''
     date_start: January 2025
     date_end: February 2025
-    summary: |
+    #summary: |
   - position: Deep Learning Course Instructor
     company_name: NOVA FCT Executive Education
     company_url: ''
     company_logo: ''
     date_start: October 2024
     date_end: February 2025
-    summary: |
+    #summary: |
 
 #languages:
 #  - name: Portuguese
