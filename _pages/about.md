@@ -10,7 +10,7 @@ redirect_from:
 
 <section id="about" style="scroll-margin-top: 100px;">
   <p>
-    Vasco Ramos is a PhD Researcher in Multimodal AI at NOVA Lisbon and a Scientific Researcher in partnership with Google, where he investigates video generation models for visualizing complex manual tasks. Recognized for his academic excellence as a top graduate, he achieved 1st Place in the Amazon Alexa Prize TaskBot Challenge 2 for developing a multimodal conversational agent. Beyond his research, Vasco actively teaches Deep Learning, NLP, and Computer Vision modules for the CMU Portugal Academy and the Samsung Innovation Campus.
+    Vasco Ramos is a PhD Researcher in Multimodal AI at NOVA University of Lisbon in partnership with Google, where he investigates on how to measure and improve factuality on image and video generative methods. Recognized for his academic excellence as a top graduate during BSc and MSc, his team achieved 1st Place in the Amazon Alexa Prize TaskBot Challenge 2 for developing a multimodal conversational agent.
   </p>
 </section>
 
