@@ -123,7 +123,7 @@ redirect_from:
   
   <tr>
     <td style="padding:20px;width:25%;vertical-align:middle">
-      <img src="images/twiz.jpg" alt="TWIZ Alexa Prize" style="border-radius:10px; width:100%; max-width:200px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+      <img src="images/twiz.png" alt="TWIZ Alexa Prize" style="border-radius:10px; width:100%; max-width:200px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">
       <a href="#">
