@@ -37,9 +37,6 @@ redirect_from:
       <br>
       <a href="https://arxiv.org/abs/2512.08505">[Paper]</a>
       <a href="#">[Code]</a>
-      <p>
-        We investigate aligning prompts with latent representations to improve diffusion model generation, proposing a new method that reduces noise interference.
-      </p>
     </td>
   </tr>
 
@@ -59,9 +56,6 @@ redirect_from:
       <a href="#">[Paper]</a>
       <a href="#">[Code]</a>
       <a href="#">[Video]</a>
-      <p>
-        A novel contrastive approach for synthesizing non-linear and multi-scene instructional videos using sequential diffusion models.
-      </p>
     </td>
   </tr>
 
@@ -80,9 +74,6 @@ redirect_from:
       <br>
       <a href="https://arxiv.org/abs/2503.20429">[Paper]</a>
       <a href="#">[Code]</a>
-      <p>
-        Exploring Latent Beam Diffusion Models to generate coherent and temporally consistent visual sequences.
-      </p>
     </td>
   </tr>
 
@@ -108,9 +99,6 @@ redirect_from:
       <br>
       <a href="#">[Paper]</a>
       <a href="#">[Code]</a>
-      <p>
-        Addressing the challenge of generating coherent visual illustrations for complex manual tasks using generative models.
-      </p>
     </td>
   </tr>
 
@@ -136,9 +124,6 @@ redirect_from:
       <br>
       <a href="#">[Paper]</a>
       <a href="#">[Code]</a>
-      <p>
-        Presenting TWIZ, a multimodal conversational agent developed for the Alexa Prize TaskBot Challenge, focusing on rich user interaction.
-      </p>
     </td>
   </tr>
 
