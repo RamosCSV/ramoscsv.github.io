@@ -24,7 +24,7 @@ redirect_from:
   
   <tr>
     <td style="padding:20px;width:25%;vertical-align:middle">
-      <img src="images/beyond_noise_teaser.jpg" alt="Beyond the Noise" style="border-radius:10px; width:100%; max-width:200px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+      <img src="images/noisyclip.png" alt="Beyond the Noise" style="border-radius:10px; width:100%; max-width:200px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">
       <a href="https://arxiv.org/abs/2512.08505">
@@ -45,7 +45,7 @@ redirect_from:
 
   <tr>
     <td style="padding:20px;width:25%;vertical-align:middle">
-      <img src="images/wacv2025_teaser.jpg" alt="WACV 2025" style="border-radius:10px; width:100%; max-width:200px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+      <img src="images/cosed.png" alt="WACV 2025" style="border-radius:10px; width:100%; max-width:200px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">
       <a href="#">
@@ -67,7 +67,7 @@ redirect_from:
 
   <tr>
     <td style="padding:20px;width:25%;vertical-align:middle">
-      <img src="images/latentbeam2025.jpg" alt="Latent Beam" style="border-radius:10px; width:100%; max-width:200px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+      <img src="images/beamdiffusion.png" alt="Latent Beam" style="border-radius:10px; width:100%; max-width:200px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">
       <a href="https://arxiv.org/abs/2503.20429">
@@ -95,7 +95,7 @@ redirect_from:
   
   <tr>
     <td style="padding:20px;width:25%;vertical-align:middle">
-      <img src="images/acl2024_teaser.jpg" alt="ACL 2024" style="border-radius:10px; width:100%; max-width:200px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+      <img src="images/bordaloacl.png" alt="ACL 2024" style="border-radius:10px; width:100%; max-width:200px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">
       <a href="#">
@@ -123,7 +123,7 @@ redirect_from:
   
   <tr>
     <td style="padding:20px;width:25%;vertical-align:middle">
-      <img src="images/twiz2023.jpg" alt="TWIZ Alexa Prize" style="border-radius:10px; width:100%; max-width:200px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+      <img src="images/twiz.jpg" alt="TWIZ Alexa Prize" style="border-radius:10px; width:100%; max-width:200px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">
       <a href="#">
