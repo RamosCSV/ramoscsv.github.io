@@ -140,3 +140,13 @@ redirect_from:
     <li>Deep Learning, 2024, Samsung Innovation Campus Artificial Intelligence Course </li>
   </ul>
 </section>
+
+<section id="academic-service" style="scroll-margin-top: 100px;">
+  <h2>Academic Service</h2>
+  <ul>
+    <li>
+      <a href="https://ramoscsv.github.io/longvid_foundations/">1st Workshop on Long Multi-Scene Video Foundations: Generation, Understanding and Evaluation at ICCV 2025</a><br>
+      Role: Main Organizer
+    </li>
+  </ul>
+</section>
